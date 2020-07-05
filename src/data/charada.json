@@ -1,0 +1,1693 @@
+[
+  {
+    "id": 1,
+    "principal": "Caballo",
+    "secundarios": [
+      "sol",
+      "tintero",
+      "fiebre alta",
+      "comerciante rico",
+      "cabeza",
+      "maíz",
+      "peineta rota",
+      "pito de auxilio",
+      "canario"
+    ]
+  },
+  {
+    "id": 2,
+    "principal": "Mariposa",
+    "secundarios": [
+      "hombre",
+      "cafetera",
+      "plato",
+      "gusano",
+      "gato de Angora",
+      "lámpara",
+      "indigestión",
+      "níspero",
+      "bate",
+      "grillo"
+    ]
+  },
+  {
+    "id": 3,
+    "principal": "Marinero",
+    "secundarios": [
+      "vieja",
+      "luna",
+      "taza",
+      "hombre afeminado",
+      "carajo",
+      "limón",
+      "elegía",
+      "niño chiquito",
+      "rosa amarilla",
+      "plato",
+      "viaje"
+    ]
+  },
+  {
+    "id": 4,
+    "principal": "Gato",
+    "secundarios": [
+      "boca",
+      "soldado extranjero",
+      "llave",
+      "gato cimarrón",
+      "yegua",
+      "ají picante",
+      "vela",
+      "santa Bárbara",
+      "clavellina"
+    ]
+  },
+  {
+    "id": 5,
+    "principal": "Monja",
+    "secundarios": [
+      "niño",
+      "mar",
+      "rapto",
+      "suerte",
+      "cara",
+      "nube",
+      "comadrona",
+      "hígado",
+      "boquilla",
+      "submarino",
+      "ametralladora",
+      "nieto",
+      "candado"
+    ]
+  },
+  {
+    "id": 6,
+    "principal": "Jicotea",
+    "secundarios": [
+      "carta",
+      "reverbero",
+      "cita",
+      "candela",
+      "camino largo",
+      "morada",
+      "aeroplano",
+      "pájaro",
+      "negro",
+      "jarra",
+      "botella"
+    ]
+  },
+  {
+    "id": 7,
+    "principal": "Caracol",
+    "secundarios": [
+      "sueño",
+      "mierda",
+      "culo",
+      "suciedad",
+      "palco",
+      "revólver",
+      "guásima",
+      "ciruela",
+      "catarro"
+    ]
+  },
+  {
+    "id": 8,
+    "principal": "Muerto",
+    "secundarios": [
+      "león",
+      "calabaza",
+      "sijú",
+      "limpieza",
+      "soledad",
+      "franquechuela",
+      "mal de sambito",
+      "apetito",
+      "aguacate",
+      "tigre",
+      "mesa",
+      "virgen de la caridad"
+    ]
+  },
+  {
+    "id": 9,
+    "principal": "Elefante",
+    "secundarios": [
+      "entierro",
+      "feto",
+      "albañil",
+      "pica pica",
+      "santo",
+      "máquina de coser",
+      "martillo",
+      "cubo",
+      "carretero",
+      "lengua",
+      "cabeza",
+      "buey"
+    ]
+  },
+  {
+    "id": 10,
+    "principal": "Pescado Grande",
+    "secundarios": [
+      "malla",
+      "santo principal",
+      "cura",
+      "susto",
+      "chinchila",
+      "rascacielos",
+      "majá",
+      "bohío",
+      "plancha",
+      "dinero",
+      "residente"
+    ]
+  },
+  {
+    "id": 11,
+    "principal": "Gallo",
+    "secundarios": [
+      "lluvia",
+      "fosforera",
+      "azote",
+      "sal",
+      "guajiro",
+      "as de oro",
+      "niño de Praga",
+      "mocha",
+      "moneda antigua",
+      "Miami"
+    ]
+  },
+  {
+    "id": 12,
+    "principal": "Mujer Buena",
+    "secundarios": [
+      "cazuela",
+      "corazón",
+      "vela",
+      "pleito",
+      "dos de copas",
+      "grada",
+      "muerto",
+      "cura",
+      "casa de alto",
+      "toalla",
+      "puente"
+    ]
+  },
+  {
+    "id": 13,
+    "principal": "Pavo Real",
+    "secundarios": [
+      "niño",
+      "muchachón",
+      "chulo",
+      "bobo",
+      "zanahoria",
+      "miedo",
+      "equilibrista",
+      "niño malo",
+      "as de espada",
+      "casa de bien"
+    ]
+  },
+  {
+    "id": 14,
+    "principal": "Gato Tigre",
+    "secundarios": [
+      "matrimonio",
+      "arete",
+      "sartén",
+      "cementerio",
+      "poste caído",
+      "suerte perdida",
+      "as de basto",
+      "regalo"
+    ]
+  },
+  {
+    "id": 15,
+    "principal": "Perro Chiquito",
+    "secundarios": [
+      "visita",
+      "cuchara",
+      "niña bonita",
+      "cuña",
+      "timón",
+      "mulata",
+      "pepino",
+      "corre corre",
+      "corista",
+      "martirio",
+      "billete perdido"
+    ]
+  },
+  {
+    "id": 16,
+    "principal": "Toro",
+    "secundarios": [
+      "fuego",
+      "vestido",
+      "plancha",
+      "tarrú",
+      "avispa",
+      "funeral",
+      "incendio chico",
+      "santo",
+      "ventana",
+      "dolor de barriga",
+      "tojosa",
+      "aroma",
+      "hombre galante",
+      "moscón en el café"
+    ]
+  },
+  {
+    "id": 17,
+    "principal": "San Lázaro",
+    "secundarios": [
+      "luna",
+      "mujer mala",
+      "camisa",
+      "hule",
+      "camisón",
+      "caimán",
+      "viaje",
+      "arrabal",
+      "ballena",
+      "invisible",
+      "yate",
+      "arma",
+      "huida de perro",
+      "fumar",
+      "gallo jabao"
+    ]
+  },
+  {
+    "id": 18,
+    "principal": "Pescado Chico",
+    "secundarios": [
+      "iglesia",
+      "palma",
+      "paloma",
+      "sirena",
+      "gato amarillo",
+      "pesca",
+      "cuchara de albañil",
+      "legislador",
+      "cosa rara",
+      "sereno"
+    ]
+  },
+  {
+    "id": 19,
+    "principal": "Lombriz",
+    "secundarios": [
+      "mesa",
+      "caída casual",
+      "pareja de vizcos",
+      "granizos",
+      "boniato",
+      "tropa",
+      "armadura de reloj",
+      "jutía",
+      "pino",
+      "bandera",
+      "muerte",
+      "ropa sucia",
+      "mendigo"
+    ]
+  },
+  {
+    "id": 20,
+    "principal": "Tibor",
+    "secundarios": [
+      "gato fino",
+      "cañón",
+      "camiseta",
+      "maíz",
+      "tabaco",
+      "bocina",
+      "pastillas",
+      "ñame",
+      "policía",
+      "cigarro",
+      "libro",
+      "mujer",
+      "avaro",
+      "estrella",
+      "cartón",
+      "carretilla"
+    ]
+  },
+  {
+    "id": 21,
+    "principal": "Majá",
+    "secundarios": [
+      "reloj",
+      "chaleco",
+      "dos entierros",
+      "reloj de bolsillo",
+      "costura",
+      "cigarro",
+      "recabuchador",
+      "toronjil",
+      "caja de oro",
+      "familia afortunada",
+      "luna llena",
+      "cadena de oro"
+    ]
+  },
+  {
+    "id": 22,
+    "principal": "Sapo",
+    "secundarios": [
+      "estrella",
+      "lira",
+      "chimenea",
+      "lirios",
+      "calvo",
+      "lucero",
+      "entenado",
+      "chisme",
+      "muñeco",
+      "perro",
+      "meningitis",
+      "dos de copas",
+      "novios descarados",
+      "hijo postizo",
+      "aparición"
+    ]
+  },
+  {
+    "id": 23,
+    "principal": "Vapor",
+    "secundarios": [
+      "monte",
+      "escalera",
+      "submarino",
+      "silla",
+      "alacrán chiquito",
+      "barco",
+      "anguila",
+      "ayuno",
+      "espada",
+      "animal en la línea",
+      "bastón de lujo",
+      "general",
+      "dos de espadas"
+    ]
+  },
+  {
+    "id": 24,
+    "principal": "Paloma",
+    "secundarios": [
+      "música",
+      "cocina",
+      "carpintero",
+      "encaje",
+      "crema",
+      "contrabando",
+      "espíritu santo",
+      "noche buena",
+      "general valiente",
+      "dos de basto"
+    ]
+  },
+  {
+    "id": 25,
+    "principal": "Piedra Fina",
+    "secundarios": [
+      "casa",
+      "sal",
+      "monja",
+      "lágrima",
+      "canario",
+      "murciélago",
+      "rana",
+      "perro jíbaro",
+      "corto circuito",
+      "matrimonio",
+      "tribunal de justicia"
+    ]
+  },
+  {
+    "id": 26,
+    "principal": "Anguila",
+    "secundarios": [
+      "calle",
+      "médico",
+      "joven",
+      "abeja",
+      "luz brillante",
+      "jabón",
+      "avión",
+      "nube",
+      "dominó",
+      "abogado",
+      "resbaloso",
+      "africano",
+      "fecha de luto",
+      "funeraria"
+    ]
+  },
+  {
+    "id": 27,
+    "principal": "Avispa",
+    "secundarios": [
+      "campana",
+      "café",
+      "anillo",
+      "baúl",
+      "mono",
+      "coralina",
+      "biblia",
+      "hipo",
+      "salación",
+      "vela de muerto",
+      "trampa",
+      "ave de paso",
+      "autoridad en coche",
+      "nazareno"
+    ]
+  },
+  {
+    "id": 28,
+    "principal": "Chivo",
+    "secundarios": [
+      "bollo",
+      "uva",
+      "cinto",
+      "delirio",
+      "venado",
+      "muerto",
+      "mentira",
+      "contador",
+      "monstruo"
+    ]
+  },
+  {
+    "id": 29,
+    "principal": "Ratón",
+    "secundarios": [
+      "nube",
+      "jutía",
+      "venado",
+      "escama",
+      "garage",
+      "carpintero",
+      "carbón",
+      "simulacro de bombero"
+    ]
+  },
+  {
+    "id": 30,
+    "principal": "Camarón",
+    "secundarios": [
+      "arcoiris",
+      "almanaque",
+      "pinga",
+      "hombre borracho",
+      "espuela",
+      "cangrejo chico",
+      "tirabuzón",
+      "caimán",
+      "timbalero"
+    ]
+  },
+  {
+    "id": 31,
+    "principal": "Venado",
+    "secundarios": [
+      "escuela",
+      "tianjero",
+      "anoncillo",
+      "grúa",
+      "zapato",
+      "abeja",
+      "boletín",
+      "calabaza",
+      "pato",
+      "animal muerto",
+      "vejez",
+      "banco de piedra",
+      "tres de oro",
+      "diente"
+    ]
+  },
+  {
+    "id": 32,
+    "principal": "Cochino",
+    "secundarios": [
+      "enemigo",
+      "mulo",
+      "dentista",
+      "demonio",
+      "pluma",
+      "hierro",
+      "reloj",
+      "pulsera",
+      "faja de general",
+      "dos de copas",
+      "fuego"
+    ]
+  },
+  {
+    "id": 33,
+    "principal": "Tiñosa",
+    "secundarios": [
+      "baraja",
+      "crucifijo",
+      "santo dios",
+      "bofetón",
+      "artista",
+      "barrendero",
+      "armero",
+      "cortar con serrucho",
+      "tres de espadas",
+      "carne"
+    ]
+  },
+  {
+    "id": 34,
+    "principal": "Mono",
+    "secundarios": [
+      "familia negra",
+      "capataz",
+      "paloma",
+      "negro mono",
+      "miel de abeja",
+      "velorio",
+      "salación",
+      "listero",
+      "estuche",
+      "golpe de tablón",
+      "tres de basto"
+    ]
+  },
+  {
+    "id": 35,
+    "principal": "Araña",
+    "secundarios": [
+      "novia",
+      "carro de muerto",
+      "bombilla",
+      "mosquito",
+      "mariposa",
+      "jabalina",
+      "sepultura",
+      "fogonero",
+      "churro",
+      "gasolina",
+      "zapatero"
+    ]
+  },
+  {
+    "id": 36,
+    "principal": "Cachimba",
+    "secundarios": [
+      "teatro",
+      "extranjero",
+      "bodega",
+      "boniato",
+      "chivo",
+      "pajarito",
+      "cafetería",
+      "hombre rico",
+      "batalla",
+      "cotorra",
+      "limosnero",
+      "gorrión"
+    ]
+  },
+  {
+    "id": 37,
+    "principal": "Brujería",
+    "secundarios": [
+      "hormiga",
+      "gallina prieta",
+      "carretea",
+      "gitana",
+      "piedra fina",
+      "matarife",
+      "parto malo",
+      "motocicleta",
+      "perro policía",
+      "jutía",
+      "maestro",
+      "flores",
+      "baraja",
+      "enfermo"
+    ]
+  },
+  {
+    "id": 38,
+    "principal": "Dinero",
+    "secundarios": [
+      "macao",
+      "carro",
+      "gaveta",
+      "barril",
+      "goleta",
+      "monaguillo",
+      "espiritista",
+      "buzo",
+      "pimienta",
+      "mandarina",
+      "truco",
+      "bayoneta",
+      "limonada",
+      "reptil",
+      "manto",
+      "autopista",
+      "aguador"
+    ]
+  },
+  {
+    "id": 39,
+    "principal": "Culebra",
+    "secundarios": [
+      "rayo",
+      "ladrón",
+      "conejo",
+      "baile",
+      "tintero",
+      "mono",
+      "centella",
+      "componente",
+      "fista",
+      "mandarriazo",
+      "trueno"
+    ]
+  },
+  {
+    "id": 40,
+    "principal": "Cura",
+    "secundarios": [
+      "sangre propia",
+      "cortina",
+      "muchacho malo",
+      "padre",
+      "estatua",
+      "bombero",
+      "blúmer",
+      "calzoncillo",
+      "pintura",
+      "pleito",
+      "cañonero",
+      "carreta",
+      "papalote",
+      "ardilla",
+      "travieso",
+      "pantalón"
+    ]
+  },
+  {
+    "id": 41,
+    "principal": "Lagartijo",
+    "secundarios": [
+      "prisión",
+      "jubo",
+      "chiflado",
+      "pato",
+      "chivo",
+      "cicote",
+      "bandolero",
+      "bicarbonato",
+      "clarín",
+      "suubterraneo",
+      "as de oro",
+      "profeta",
+      "ciego",
+      "capuchito"
+    ]
+  },
+  {
+    "id": 42,
+    "principal": "Pato",
+    "secundarios": [
+      "país lejano",
+      "España",
+      "carnero",
+      "bombilla",
+      "abismo",
+      "líos",
+      "gallego",
+      "músico",
+      "rey muerto",
+      "rifa",
+      "cuatro de copas",
+      "Cuba",
+      "liga"
+    ]
+  },
+  {
+    "id": 43,
+    "principal": "Alacrán",
+    "secundarios": [
+      "amigo",
+      "puerta",
+      "vaca blanca",
+      "presidiario",
+      "picada",
+      "torpe",
+      "amigo muerto",
+      "mierda de gato",
+      "práctico",
+      "blanco",
+      "relámpago",
+      "cuatro de espadas"
+    ]
+  },
+  {
+    "id": 44,
+    "principal": "Año del Cuero",
+    "secundarios": [
+      "esclavo",
+      "biajaca",
+      "maldad",
+      "despalilladora",
+      "bandada de gorriones",
+      "cuatro de basto",
+      "plancha",
+      "sombrero",
+      "almanaque",
+      "mucha gente",
+      "tortillera",
+      "fiesta"
+    ]
+  },
+  {
+    "id": 45,
+    "principal": "Tiburón",
+    "secundarios": [
+      "traje",
+      "presidente",
+      "revólver",
+      "caja de muerto blanca",
+      "cañaveral",
+      "cabillero",
+      "político",
+      "albahaca",
+      "membrillo",
+      "tranvía"
+    ]
+  },
+  {
+    "id": 46,
+    "principal": "Humo",
+    "secundarios": [
+      "hombre",
+      "lechuza",
+      "guagua",
+      "radio",
+      "jaiba",
+      "fuerza",
+      "queso fresco",
+      "arrenquín",
+      "lleva y trae",
+      "alcahuete"
+    ]
+  },
+  {
+    "id": 47,
+    "principal": "Pájaro Preso",
+    "secundarios": [
+      "mala noticia",
+      "escolta",
+      "envenenamiento",
+      "hilo",
+      "fuente",
+      "sátira",
+      "casa de citas"
+    ]
+  },
+  {
+    "id": 48,
+    "principal": "Cucaracha",
+    "secundarios": [
+      "abanico",
+      "jabón",
+      "barbero",
+      "cubo",
+      "indio",
+      "lengua de señorita",
+      "rosario",
+      "gambao",
+      "Sagua La Grande"
+    ]
+  },
+  {
+    "id": 49,
+    "principal": "Borracho",
+    "secundarios": [
+      "riqueza",
+      "yate",
+      "perchero",
+      "figurín",
+      "tesoro",
+      "fantasma",
+      "fogón",
+      "arma antigua",
+      "dulce con queso",
+      "pan",
+      "alfiler",
+      "San Juan",
+      "torero"
+    ]
+  },
+  {
+    "id": 50,
+    "principal": "Policía",
+    "secundarios": [
+      "alegría",
+      "temporal",
+      "sereno",
+      "sed",
+      "alcalde",
+      "flores",
+      "infierno",
+      "corbata",
+      "árbol",
+      "virgen de la caridad",
+      "picador"
+    ]
+  },
+  {
+    "id": 51,
+    "principal": "Soldado",
+    "secundarios": [
+      "sed",
+      "coche",
+      "oro",
+      "anteojos",
+      "presilla",
+      "cine",
+      "guardia rural",
+      "sereno",
+      "bandera",
+      "fuego fatuo",
+      "raquitismo",
+      "crespo",
+      "muerto",
+      "cinco de oro",
+      "berenjena",
+      "corralillo"
+    ]
+  },
+  {
+    "id": 52,
+    "principal": "Bicicleta",
+    "secundarios": [
+      "coche grande",
+      "abogado",
+      "tristeza",
+      "prenda",
+      "riña",
+      "libreta",
+      "desgracia",
+      "sardina",
+      "caimito",
+      "frijol",
+      "cinco de copas"
+    ]
+  },
+  {
+    "id": 53,
+    "principal": "Luz Eléctrica",
+    "secundarios": [
+      "prenda",
+      "dinamita",
+      "cadena",
+      "temporal",
+      "flor",
+      "tragedia",
+      "beso",
+      "juez",
+      "tilo",
+      "mayoral",
+      "bejucubí",
+      "cinco de espadas",
+      "mulo"
+    ]
+  },
+  {
+    "id": 54,
+    "principal": "Gallina",
+    "secundarios": [
+      "flores",
+      "cañón",
+      "sepultura",
+      "sucio",
+      "sepulturero",
+      "timbre",
+      "fatiga",
+      "escultura",
+      "pomarosa",
+      "cinco de basto",
+      "esfinge",
+      "submarino"
+    ]
+  },
+  {
+    "id": 55,
+    "principal": "Isleño",
+    "secundarios": [
+      "cangrejo",
+      "baile",
+      "bala",
+      "iglesia grande",
+      "mal sueño",
+      "sello",
+      "fracaso",
+      "robo",
+      "cojo",
+      "palazos",
+      "patilludo",
+      "dolor de cerebro",
+      "bote",
+      "crisantemo",
+      "submarino"
+    ]
+  },
+  {
+    "id": 56,
+    "principal": "Dolor de Cabeza",
+    "secundarios": [
+      "reina",
+      "escorpión",
+      "piedra",
+      "nieto",
+      "boticario",
+      "mal olor",
+      "merengue",
+      "ruido misterioso"
+    ]
+  },
+  {
+    "id": 57,
+    "principal": "Cama",
+    "secundarios": [
+      "telegrama",
+      "ángeles",
+      "maíz",
+      "guardia rural",
+      "presidiario",
+      "mamey amarillo",
+      "poeta muerto",
+      "pollo"
+    ]
+  },
+  {
+    "id": 58,
+    "principal": "Cuchillo",
+    "secundarios": [
+      "retrato",
+      "adulterio",
+      "amolador",
+      "piña de ratón",
+      "pollo",
+      "haragán",
+      "botín",
+      "aduana",
+      "trapecio"
+    ]
+  },
+  {
+    "id": 59,
+    "principal": "Loco",
+    "secundarios": [
+      "fonógrafo",
+      "luces",
+      "curandero",
+      "piojo",
+      "caravana de húngaros",
+      "clavícula rota",
+      "araña grande prieta"
+    ]
+  },
+  {
+    "id": 60,
+    "principal": "Huevo",
+    "secundarios": [
+      "sol oscuro",
+      "payaso",
+      "cómico",
+      "luz de Luna",
+      "delirio de persecusión",
+      "gladiolo",
+      "tempestad",
+      "chino",
+      "revólver",
+      "ajo"
+    ]
+  },
+  {
+    "id": 61,
+    "principal": "Vaca Flaca",
+    "secundarios": [
+      "cañonazo",
+      "piedra",
+      "herida",
+      "enfermedad",
+      "as de oro",
+      "aeroplano",
+      "incendiado"
+    ]
+  },
+  {
+    "id": 62,
+    "principal": "Matrimonio",
+    "secundarios": [
+      "nieve",
+      "visión",
+      "foca",
+      "esclavitud",
+      "seis de copas",
+      "gandinga",
+      "palpitaciones del corazón",
+      "armero",
+      "carretilla"
+    ]
+  },
+  {
+    "id": 63,
+    "principal": "Asesino",
+    "secundarios": [
+      "cuerno",
+      "bandido",
+      "espada grande",
+      "zoquete",
+      "totí",
+      "cofre",
+      "alpiste",
+      "cepo",
+      "abogado",
+      "enfermedad del pecho",
+      "escoba"
+    ]
+  },
+  {
+    "id": 64,
+    "principal": "Tiro",
+    "secundarios": [
+      "maromero",
+      "muerto grande",
+      "mango",
+      "relajo",
+      "fiera",
+      "rifle",
+      "vago",
+      "yugo",
+      "panadero",
+      "goloso",
+      "majúa",
+      "escándalo",
+      "baraja",
+      "bruja"
+    ]
+  },
+  {
+    "id": 65,
+    "principal": "Comida",
+    "secundarios": [
+      "cárcel",
+      "ventana",
+      "plátano de fruta",
+      "mano",
+      "periódico",
+      "delito",
+      "lámpara",
+      "muerto",
+      "palizada"
+    ]
+  },
+  {
+    "id": 66,
+    "principal": "Divorcio",
+    "secundarios": [
+      "máscara",
+      "estrella",
+      "mujer embarazada",
+      "candela",
+      "tartamuda",
+      "radio",
+      "temporal",
+      "pareja de yeguas",
+      "carnaval",
+      "arrecife",
+      "quejido a media noche",
+      "algodón",
+      "besos"
+    ]
+  },
+  {
+    "id": 67,
+    "principal": "Puñalada",
+    "secundarios": [
+      "autoridad",
+      "templo",
+      "oscuridad",
+      "reloj",
+      "aborto",
+      "machetazo en la cabeza",
+      "bautizo",
+      "baba",
+      "ofrenda",
+      "cardenal",
+      "dolor de rótula",
+      "zapato",
+      "autoridades",
+      "farol",
+      "tranvía",
+      "globo"
+    ]
+  },
+  {
+    "id": 68,
+    "principal": "Cementerio",
+    "secundarios": [
+      "templo",
+      "botas",
+      "dolor de muelas",
+      "algodón",
+      "gavilán",
+      "hombre con manopla",
+      "montecristo",
+      "fonda",
+      "mucho dinero"
+    ]
+  },
+  {
+    "id": 69,
+    "principal": "Pozo",
+    "secundarios": [
+      "fiera",
+      "relajo",
+      "ahogado",
+      "vago",
+      "polvorín",
+      "chino lavandero",
+      "artista de cine",
+      "ajo",
+      "foco que parpadea",
+      "canción",
+      "sacristán"
+    ]
+  },
+  {
+    "id": 70,
+    "principal": "Coco",
+    "secundarios": [
+      "frío",
+      "hospital",
+      "teléfono",
+      "tiro",
+      "barril",
+      "arcoiris",
+      "chalet lujoso",
+      "canción criolla",
+      "ñato",
+      "automóvil",
+      "chicharrón"
+    ]
+  },
+  {
+    "id": 71,
+    "principal": "Río",
+    "secundarios": [
+      "sombrero",
+      "pantera",
+      "limosnero",
+      "siete de oro",
+      "mosca del mercado",
+      "purgante",
+      "cementerio",
+      "fusil",
+      "perro mediano",
+      "serrucho"
+    ]
+  },
+  {
+    "id": 72,
+    "principal": "Buey",
+    "secundarios": [
+      "ferrocarril",
+      "collar",
+      "Roma",
+      "ingeniero",
+      "machete",
+      "siete de copas",
+      "matraca",
+      "repique",
+      "dos curas",
+      "carretero",
+      "rana"
+    ]
+  },
+  {
+    "id": 73,
+    "principal": "Maleta",
+    "secundarios": [
+      "parque",
+      "navaja",
+      "sobre",
+      "siete de espadas",
+      "mudanza",
+      "electrocutado",
+      "cigarro",
+      "enfermería",
+      "ajedrez",
+      "piña",
+      "manzana"
+    ]
+  },
+  {
+    "id": 74,
+    "principal": "Papalote",
+    "secundarios": [
+      "culebra",
+      "militar",
+      "berro",
+      "cuarentena",
+      "pinchazo",
+      "siete de basto",
+      "picada de bibijagua",
+      "pila",
+      "carne"
+    ]
+  },
+  {
+    "id": 75,
+    "principal": "Guitarra",
+    "secundarios": [
+      "loco",
+      "cine",
+      "viento",
+      "zurco",
+      "pleito",
+      "estampido",
+      "mordida de perro",
+      "perro con rabia",
+      "guano",
+      "copa"
+    ]
+  },
+  {
+    "id": 76,
+    "principal": "Bailarina",
+    "secundarios": [
+      "humo",
+      "ilimunación brillante",
+      "teatro",
+      "asiento de tren",
+      "loma",
+      "contrato",
+      "cueva de bellamar",
+      "caracol",
+      "aire",
+      "babosa"
+    ]
+  },
+  {
+    "id": 77,
+    "principal": "Muletas",
+    "secundarios": [
+      "bandera",
+      "guerra",
+      "billete",
+      "piloto",
+      "mesa de comer",
+      "guardia civil",
+      "pararrayo",
+      "trinchera",
+      "abuso"
+    ]
+  },
+  {
+    "id": 78,
+    "principal": "Casa Grande",
+    "secundarios": [
+      "obispo",
+      "tigre enjaulado",
+      "música",
+      "guanábana",
+      "pleito de perro y gato",
+      "algodón",
+      "lunares",
+      "periódico",
+      "tren de pasajeros",
+      "sarcófago"
+    ]
+  },
+  {
+    "id": 79,
+    "principal": "Lagarto",
+    "secundarios": [
+      "coche",
+      "tren de carga",
+      "brazo",
+      "acorazado",
+      "pedazo de muela",
+      "esqueleto de insecto",
+      "picazón de nariz",
+      "dulces cubanos",
+      "luna",
+      "abogado"
+    ]
+  },
+  {
+    "id": 80,
+    "principal": "Médico",
+    "secundarios": [
+      "guagua",
+      "buena noticia",
+      "paraguas",
+      "soldado",
+      "camilla",
+      "esqueleto",
+      "almohadilla",
+      "nerviosidad",
+      "teléfono roto",
+      "trampa",
+      "canario",
+      "bar"
+    ]
+  },
+  {
+    "id": 81,
+    "principal": "Dulce",
+    "secundarios": [
+      "muerto a cabillazo",
+      "teatro",
+      "barco",
+      "ingeniero",
+      "revista",
+      "comodín",
+      "tres de oro",
+      "encuentro de herradura",
+      "José Martí",
+      "cuerda",
+      "alcalde",
+      "navaja",
+      "guanajo"
+    ]
+  },
+  {
+    "id": 82,
+    "principal": "Pleito",
+    "secundarios": [
+      "león",
+      "batea",
+      "madre",
+      "aguijón",
+      "librero",
+      "goma",
+      "patilla",
+      "ocho de copas",
+      "eslabón de hierro",
+      "abrigo",
+      "ciclón",
+      "estrella",
+      "vieja mala"
+    ]
+  },
+  {
+    "id": 83,
+    "principal": "Tragedia",
+    "secundarios": [
+      "procesión",
+      "bastón",
+      "hierro",
+      "abanico",
+      "ocho de espadas",
+      "Historia de Cuba",
+      "encuentro de un brillante",
+      "madera",
+      "estrella de mar"
+    ]
+  },
+  {
+    "id": 84,
+    "principal": "Sangre",
+    "secundarios": [
+      "sastre",
+      "ciego",
+      "banquero",
+      "tambor",
+      "escritor",
+      "ocho de basto",
+      "simulacro de bombero",
+      "bóveda",
+      "bohío"
+    ]
+  },
+  {
+    "id": 85,
+    "principal": "Reloj",
+    "secundarios": [
+      "Madrid",
+      "anguila",
+      "hostias",
+      "dolor de estómago",
+      "medicina",
+      "chicharrón",
+      "presión",
+      "guanajo"
+    ]
+  },
+  {
+    "id": 86,
+    "principal": "Tijera",
+    "secundarios": [
+      "candela",
+      "convento",
+      "marino",
+      "muerte de un amigo",
+      "lata",
+      "amor",
+      "ardilla",
+      "tierra",
+      "mancha",
+      "lápiz"
+    ]
+  },
+  {
+    "id": 87,
+    "principal": "Plátano",
+    "secundarios": [
+      "viaje por mar",
+      "patines",
+      "capitolio",
+      "boquilla",
+      "telegrama a media noche"
+    ]
+  },
+  {
+    "id": 88,
+    "principal": "Muerto Grande",
+    "secundarios": [
+      "espejuelo",
+      "gusano",
+      "beso",
+      "hueso",
+      "veneno",
+      "tierra",
+      "garrote",
+      "ron",
+      "calabaza china",
+      "río  muy crecido",
+      "vaso",
+      "aduanero",
+      "hojas"
+    ]
+  },
+  {
+    "id": 89,
+    "principal": "Muerto Vivo",
+    "secundarios": [
+      "lotería",
+      "agua lluvia",
+      "carreta",
+      "corneta",
+      "zorra",
+      "estrella",
+      "malvado",
+      "latoso",
+      "hola de frío",
+      "tirante",
+      "torneo",
+      "tesoro",
+      "melón",
+      "perico"
+    ]
+  },
+  {
+    "id": 90,
+    "principal": "Espejo Viejo",
+    "secundarios": [
+      "asesino",
+      "dinero",
+      "viento",
+      "familiar muerto",
+      "palangana",
+      "caramelo",
+      "garage",
+      "parque infantil",
+      "temporal",
+      "padre",
+      "vejez"
+    ]
+  },
+  {
+    "id": 91,
+    "principal": "Limosnero",
+    "secundarios": [
+      "tranvía",
+      "alpargata",
+      "sal",
+      "juez",
+      "nueve de oro",
+      "abridor de tapita",
+      "varilla de paraguas",
+      "juego de tenis"
+    ]
+  },
+  {
+    "id": 92,
+    "principal": "Puerco Gordo",
+    "secundarios": [
+      "lobo",
+      "aeroplano",
+      "suicidio",
+      "isla de Cuba",
+      "comida",
+      "bosque",
+      "nueve de copas",
+      "habichuela",
+      "Santander",
+      "flojera",
+      "pollo chiquito"
+    ]
+  },
+  {
+    "id": 93,
+    "principal": "Loco",
+    "secundarios": [
+      "Revolución",
+      "andarín",
+      "pordiosero",
+      "sortija",
+      "nueve de espadas",
+      "frutas extranjeras",
+      "melao",
+      "libertad"
+    ]
+  },
+  {
+    "id": 94,
+    "principal": "Machete",
+    "secundarios": [
+      "mariposa",
+      "flor marchita",
+      "Ciudad de La Habana",
+      "marcador",
+      "hombres",
+      "perfume",
+      "botón",
+      "chancleta",
+      "esperanza",
+      "mosca"
+    ]
+  },
+  {
+    "id": 95,
+    "principal": "Perro Grande",
+    "secundarios": [
+      "pelo",
+      "mujer chismosa",
+      "huracán",
+      "barquilla de oro",
+      "corte de justicia",
+      "Revolución",
+      "Matanzas"
+    ]
+  },
+  {
+    "id": 96,
+    "principal": "Puta Vieja",
+    "secundarios": [
+      "escorpión",
+      "desafío",
+      "periódico",
+      "choque de autos",
+      "medicina",
+      "viaje a caballo",
+      "mano descompuesta",
+      "rayos X",
+      "zapato",
+      "sinsonte"
+    ]
+  },
+  {
+    "id": 97,
+    "principal": "Grillo",
+    "secundarios": [
+      "mosquito criollo",
+      "mano suelta",
+      "roce en el suelo",
+      "baraja",
+      "hallazgo de armas y municiones",
+      "trampa"
+    ]
+  },
+  {
+    "id": 98,
+    "principal": "Piano",
+    "secundarios": [
+      "visita regia",
+      "traición",
+      "beso",
+      "abuso",
+      "terreno muerto",
+      "entierro grande"
+    ]
+  },
+  {
+    "id": 99,
+    "principal": "Serrucho",
+    "secundarios": [
+      "gallo",
+      "carbonero",
+      "niño perdido",
+      "mucha candela",
+      "paseo por el campo",
+      "murciélago muerto",
+      "camello"
+    ]
+  },
+  {
+    "id": 100,
+    "principal": "Ambulancia",
+    "secundarios": [
+      "automóvil",
+      "excusado",
+      "espesa",
+      "majá",
+      "pan",
+      "anteojo",
+      "jimagua",
+      "jugador",
+      "maíz",
+      "verdugo",
+      "golpe en la espalda",
+      "paradero",
+      "escoba",
+      "accidente"
+    ]
+  }
+]

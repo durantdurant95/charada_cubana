@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+$principal: #ace5ee;
+$texto: #2a293e;
+
+body {
+  background-color: $principal;
+  color: $texto;
+}
+
+.card {
+  border: 0;
+  .card-header {
+    background-color: darken($principal, $amount: 20);
+  }
+  .card-body {
+    background-color: darken($principal, $amount: 10);
+  }
+}
