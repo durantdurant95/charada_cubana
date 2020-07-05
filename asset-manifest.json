@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/charada_cubana/static/css/main.b4950c52.chunk.css",
+    "main.js": "/charada_cubana/static/js/main.fd6c9d82.chunk.js",
+    "main.js.map": "/charada_cubana/static/js/main.fd6c9d82.chunk.js.map",
+    "runtime-main.js": "/charada_cubana/static/js/runtime-main.79e78131.js",
+    "runtime-main.js.map": "/charada_cubana/static/js/runtime-main.79e78131.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/charada_cubana/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2e6584ef.chunk.js": "/charada_cubana/static/js/2.2e6584ef.chunk.js",
+    "static/js/2.2e6584ef.chunk.js.map": "/charada_cubana/static/js/2.2e6584ef.chunk.js.map",
+    "index.html": "/charada_cubana/index.html",
+    "precache-manifest.0b0306ee447013b2bfae30edcd6ea3f7.js": "/charada_cubana/precache-manifest.0b0306ee447013b2bfae30edcd6ea3f7.js",
+    "service-worker.js": "/charada_cubana/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/charada_cubana/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.b4950c52.chunk.css.map": "/charada_cubana/static/css/main.b4950c52.chunk.css.map",
+    "static/js/2.2e6584ef.chunk.js.LICENSE.txt": "/charada_cubana/static/js/2.2e6584ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e78131.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.2e6584ef.chunk.js",
+    "static/css/main.b4950c52.chunk.css",
+    "static/js/main.fd6c9d82.chunk.js"
+  ]
+}
