@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a7024df805da3730a4004e5ad9d1552",
+    "revision": "d1a07da424f567ef9c17ea8198f2f9cd",
     "url": "/charada_cubana/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/charada_cubana/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "a060b58ce23b8b6648c5",
+    "revision": "f48d370c569e63673a16",
     "url": "/charada_cubana/static/css/main.75ccfdc9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/charada_cubana/static/js/2.1939f19e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a060b58ce23b8b6648c5",
-    "url": "/charada_cubana/static/js/main.60ef8a67.chunk.js"
+    "revision": "f48d370c569e63673a16",
+    "url": "/charada_cubana/static/js/main.d2be7af4.chunk.js"
   },
   {
     "revision": "8a813e8082c0f4b11b96",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/charada_cubana/static/css/main.75ccfdc9.chunk.css",
-    "main.js": "/charada_cubana/static/js/main.60ef8a67.chunk.js",
-    "main.js.map": "/charada_cubana/static/js/main.60ef8a67.chunk.js.map",
+    "main.js": "/charada_cubana/static/js/main.d2be7af4.chunk.js",
+    "main.js.map": "/charada_cubana/static/js/main.d2be7af4.chunk.js.map",
     "runtime-main.js": "/charada_cubana/static/js/runtime-main.79e78131.js",
     "runtime-main.js.map": "/charada_cubana/static/js/runtime-main.79e78131.js.map",
     "static/css/2.829c9cb5.chunk.css": "/charada_cubana/static/css/2.829c9cb5.chunk.css",
     "static/js/2.1939f19e.chunk.js": "/charada_cubana/static/js/2.1939f19e.chunk.js",
     "static/js/2.1939f19e.chunk.js.map": "/charada_cubana/static/js/2.1939f19e.chunk.js.map",
     "index.html": "/charada_cubana/index.html",
-    "precache-manifest.236f4ac19a7529a73530399cbb0c8d01.js": "/charada_cubana/precache-manifest.236f4ac19a7529a73530399cbb0c8d01.js",
+    "precache-manifest.4d78f5aaf0ae8bbe883c037dd8c5bafc.js": "/charada_cubana/precache-manifest.4d78f5aaf0ae8bbe883c037dd8c5bafc.js",
     "service-worker.js": "/charada_cubana/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/charada_cubana/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.75ccfdc9.chunk.css.map": "/charada_cubana/static/css/main.75ccfdc9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.1939f19e.chunk.js",
     "static/css/main.75ccfdc9.chunk.css",
-    "static/js/main.60ef8a67.chunk.js"
+    "static/js/main.d2be7af4.chunk.js"
   ]
 }
