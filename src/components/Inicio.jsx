@@ -9,17 +9,15 @@ const Inicio = () => {
         La Charada siempre a su alcance
       </h1>
       <h3 className="mb-5">Encuentre sus resultados al momento!</h3>
-      <p className="lead">
-        Busque el resultado que desea o vea completamente la charada
-      </p>
+      <p className="lead">Puede buscar o ver completamente la charada</p>
       <NavLink to="/buscador">
         <Button className="btn-lg ml-4 mt-4" variant="light">
-          Buscador
+          Buscar
         </Button>
       </NavLink>
       <NavLink to="/charada">
         <Button className="ml-4 mt-4 btn-lg" variant="outline-light">
-          Charada completa
+          Charada
         </Button>
       </NavLink>
     </Container>

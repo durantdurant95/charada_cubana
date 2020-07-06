@@ -10,7 +10,7 @@ const Buscador = () => {
   const manejarCambio = (val) => {
     setResultado(val);
     let coinciden = charada.filter((some) => {
-      const regex = new RegExp(`^${val}`, "gi");
+      const regex = new RegExp(`${val}`);
       return (
         some.principal.toLowerCase().match(regex) ||
         some.id.toString(10).match(regex) ||
@@ -26,13 +26,12 @@ const Buscador = () => {
 
   return (
     <Fragment>
-      <div className="sticky-top py-4 bg-dark">
+      <div className="sticky-top buscador py-4">
         <p className="text-center my-4 lead">
-          Puede buscar tanto por números como por palabras clave y obtendrá los
-          resultados
+          Busque por números o palabras clave
         </p>
         <FormControl
-          className="col-md-8 mb-2 col-lg-6 mx-auto shadow-sm form-control-lg"
+          className="col-10 col-md-8 mb-2 col-lg-6 mx-auto shadow-sm form-control-lg"
           value={resultado}
           onChange={(e) => manejarCambio(e.target.value)}
           placeholder="Busca la suerte..."

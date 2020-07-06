@@ -5,7 +5,7 @@ import charada from "../data/charada.json";
 
 const Charada = () => {
   return (
-    <Row className="charada mt-3" xs={1} sm={2} md={3} lg={4}>
+    <Row className="mt-3" xs={1} sm={2} md={3} lg={4}>
       {charada.map((item) => (
         <Container key={item.id}>
           <Col key={item.id}>
