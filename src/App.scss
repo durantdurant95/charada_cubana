@@ -1,11 +1,65 @@
 @import "~bootstrap/scss/bootstrap";
 
-$principal: #ace5ee;
-$texto: #2a293e;
-
+$principal: #3b4252;
+$texto: #f5f5f5;
 body {
-  background-color: $principal;
   color: $texto;
+  background-image: url(../src/images/wall.jpg);
+}
+
+.hero {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+.charada {
+  background-color: transparentize($principal, $amount: 0.5);
+}
+
+.navbar {
+  box-shadow: 0 0 20px darken($texto, $amount: 60);
+  .nav-link {
+    margin-right: 30px;
+    color: $texto !important;
+    border-radius: 5px;
+    position: relative;
+  }
+
+  .nav-link::before {
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 2px;
+    right: 50%;
+    height: 2px;
+    width: 0;
+    border-radius: 3px 0 0 3px;
+    background-color: darken($texto, $amount: 60);
+    content: "";
+    transition: all 0.5s;
+  }
+  .nav-link::after {
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 2px;
+    left: 50%;
+    height: 2px;
+    width: 0;
+    border-radius: 0 3px 3px 0;
+    background-color: darken($texto, $amount: 60);
+    content: "";
+    transition: all 0.5s;
+  }
+  .nav-link:hover::before,
+  .nav-link:hover::after {
+    width: 50%;
+  }
+
+  background-color: rgba($color: #000000, $alpha: 0.8) !important;
+
+  .nav-link:hover {
+    color: darken($texto, $amount: 50) !important;
+  }
 }
 
 .card {
