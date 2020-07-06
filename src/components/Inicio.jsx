@@ -13,12 +13,12 @@ const Inicio = () => {
         Busque el resultado que desea o vea completamente la charada
       </p>
       <NavLink to="/buscador">
-        <Button className="btn-lg" variant="light">
+        <Button className="btn-lg ml-4 mt-4" variant="light">
           Buscador
         </Button>
       </NavLink>
       <NavLink to="/charada">
-        <Button className="ml-4 btn-lg" variant="outline-light">
+        <Button className="ml-4 mt-4 btn-lg" variant="outline-light">
           Charada completa
         </Button>
       </NavLink>

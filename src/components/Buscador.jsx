@@ -26,16 +26,18 @@ const Buscador = () => {
 
   return (
     <Fragment>
-      <p className="text-center my-4 lead">
-        Puede buscar tanto por números como por palabras clave y obtendrá los
-        resultados
-      </p>
-      <FormControl
-        className="col-md-8 col-lg-6 mx-auto shadow-sm form-control-lg"
-        value={resultado}
-        onChange={(e) => manejarCambio(e.target.value)}
-        placeholder="Busca la suerte..."
-      ></FormControl>
+      <div className="sticky-top py-4 bg-dark">
+        <p className="text-center my-4 lead">
+          Puede buscar tanto por números como por palabras clave y obtendrá los
+          resultados
+        </p>
+        <FormControl
+          className="col-md-8 mb-2 col-lg-6 mx-auto shadow-sm form-control-lg"
+          value={resultado}
+          onChange={(e) => manejarCambio(e.target.value)}
+          placeholder="Busca la suerte..."
+        ></FormControl>
+      </div>
       <Row className="charada mt-3" xs={1} sm={2} md={3} lg={4}>
         {matches.map((item) => (
           <Container key={item.id}>
