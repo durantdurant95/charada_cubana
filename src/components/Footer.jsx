@@ -4,7 +4,7 @@ import { Container } from "react-bootstrap";
 const Footer = () => {
   return (
     <footer>
-      <Container>
+      <Container className="fixed-bottom">
         <p className="float-right">Desarrollado por Alejandro Pérez Durán</p>
       </Container>
     </footer>

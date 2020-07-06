@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 
 const Inicio = () => {
   return (
-    <Container className="hero">
+    <Container>
       <h1 className="py-5 display-4 font-weight-bold">
         La Charada siempre a su alcance
       </h1>

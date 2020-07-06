@@ -15,7 +15,6 @@ function App() {
           <Route path="/charada_cubana" exact>
             <BarraNav />
             <Inicio />
-            <Footer />
           </Route>
           <Route path="/buscador" exact>
             <BarraNav />
@@ -26,6 +25,7 @@ function App() {
             <Charada />
           </Route>
         </Switch>
+        <Footer />
       </Router>
     </Fragment>
   );
