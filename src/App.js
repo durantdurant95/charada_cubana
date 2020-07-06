@@ -12,7 +12,7 @@ function App() {
     <Fragment>
       <Router>
         <Switch>
-          <Route path="/" exact>
+          <Route path="/charada_cubana" exact>
             <BarraNav />
             <Inicio />
             <Footer />

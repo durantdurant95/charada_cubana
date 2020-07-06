@@ -8,7 +8,7 @@ const BarraNav = () => {
   return (
     <Navbar variant="dark" expand="md">
       <Container>
-        <NavLink to="/" exact>
+        <NavLink to="/charada_cubana" exact>
           <NavbarBrand className="nav-link pt-2">Charada Cubana</NavbarBrand>
         </NavLink>
         <NavbarToggle
