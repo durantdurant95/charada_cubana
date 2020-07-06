@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/charada_cubana/static/css/main.75ccfdc9.chunk.css",
-    "main.js": "/charada_cubana/static/js/main.d2be7af4.chunk.js",
-    "main.js.map": "/charada_cubana/static/js/main.d2be7af4.chunk.js.map",
+    "main.css": "/charada_cubana/static/css/main.fb772745.chunk.css",
+    "main.js": "/charada_cubana/static/js/main.5120347d.chunk.js",
+    "main.js.map": "/charada_cubana/static/js/main.5120347d.chunk.js.map",
     "runtime-main.js": "/charada_cubana/static/js/runtime-main.79e78131.js",
     "runtime-main.js.map": "/charada_cubana/static/js/runtime-main.79e78131.js.map",
     "static/css/2.829c9cb5.chunk.css": "/charada_cubana/static/css/2.829c9cb5.chunk.css",
     "static/js/2.1939f19e.chunk.js": "/charada_cubana/static/js/2.1939f19e.chunk.js",
     "static/js/2.1939f19e.chunk.js.map": "/charada_cubana/static/js/2.1939f19e.chunk.js.map",
     "index.html": "/charada_cubana/index.html",
-    "precache-manifest.4d78f5aaf0ae8bbe883c037dd8c5bafc.js": "/charada_cubana/precache-manifest.4d78f5aaf0ae8bbe883c037dd8c5bafc.js",
+    "precache-manifest.4b0213dc23db317e24b37cf8170c7d17.js": "/charada_cubana/precache-manifest.4b0213dc23db317e24b37cf8170c7d17.js",
     "service-worker.js": "/charada_cubana/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/charada_cubana/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.75ccfdc9.chunk.css.map": "/charada_cubana/static/css/main.75ccfdc9.chunk.css.map",
+    "static/css/main.fb772745.chunk.css.map": "/charada_cubana/static/css/main.fb772745.chunk.css.map",
     "static/js/2.1939f19e.chunk.js.LICENSE.txt": "/charada_cubana/static/js/2.1939f19e.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/charada_cubana/static/media/wall.008254fc.jpg"
+    "static/media/App.scss": "/charada_cubana/static/media/wall.bdc652e4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.79e78131.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.1939f19e.chunk.js",
-    "static/css/main.75ccfdc9.chunk.css",
-    "static/js/main.d2be7af4.chunk.js"
+    "static/css/main.fb772745.chunk.css",
+    "static/js/main.5120347d.chunk.js"
   ]
 }

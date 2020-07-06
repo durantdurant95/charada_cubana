@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/charada_cubana/precache-manifest.4d78f5aaf0ae8bbe883c037dd8c5bafc.js"
+  "/charada_cubana/precache-manifest.4b0213dc23db317e24b37cf8170c7d17.js"
 );
 
 self.addEventListener('message', (event) => {
