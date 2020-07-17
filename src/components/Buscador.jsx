@@ -10,7 +10,7 @@ const Buscador = () => {
   const manejarCambio = (val) => {
     setResultado(val);
     let coinciden = charada.filter((some) => {
-      const regex = new RegExp(`${val}`);
+      const regex = new RegExp(`${val.toLowerCase()}`);
       return (
         some.principal.toLowerCase().match(regex) ||
         some.id.toString(10).match(regex) ||
